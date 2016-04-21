@@ -4,6 +4,7 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 
 public class GetConnection {
+//¼ÓÔØÇý¶¯
 	public static final String driver="com.mysql.jdbc.Driver";
 	public static final String url="jdbc:mysql://127.0.0.1:3306/users";
 	public static Connection GetConnection(){
